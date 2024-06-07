@@ -11,7 +11,7 @@ Effective Java 3/E 스터디 공간입니다<br/>
 
 ## ✔ Rule
 
-[☉ Issue Template](https://github.com/CSSAFTUDY/CS_STUDY/issues) 이용
+[☉ Issue Template](https://github.com/EffectiveJavaStudyHard/Effective_Java_Study/issues) 이용
 
 ```
 1. 각자 정해진 주제 공부/정리 후 해당 디렉토리에 게시
